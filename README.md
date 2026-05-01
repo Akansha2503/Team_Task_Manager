@@ -1,34 +1,48 @@
-🚀 TEAM TASK MANAGER
-📌 Overview
-Team Task Manager is a full-stack web application built using the MERN Stack that helps teams manage projects, assign tasks, and track work progress efficiently with role-based access control.
+# 🚀 Team Task Manager
 
-✨ Features
+## 📌 Overview
+Team Task Manager is a full-stack web application built using the MERN Stack that helps teams manage projects, assign tasks, and track work progress efficiently with secure role-based access control.
 
-🔐 Authentication (Signup/Login)
-👥 Admin & Member Roles
-📁 Project Management
-✅ Task Creation & Assignment
-📊 Task Status Tracking
-⏰ Overdue Task Monitoring
-📱 Responsive UI
-🔒 Secure JWT Authentication
+---
 
-🛠️ Tech Stack
+## ✨ Features
 
-Frontend
-React.js
-Vite
-CSS / Tailwind CSS
-Backend
-Node.js
-Express.js
-MongoDB
-Mongoose
-Authentication
-JWT
-bcryptjs
+- 🔐 User Authentication (Signup/Login)
+- 👥 Admin & Member Roles
+- 📁 Project Management
+- ✅ Task Creation & Assignment
+- 📊 Task Status Tracking
+- ⏰ Overdue Task Monitoring
+- 📱 Responsive User Interface
+- 🔒 Secure JWT Authentication
 
-🌐 Deployment
-Backend Deployment : https://teamtaskmanager-production-fb3a.up.railway.app/
+---
 
-Live URL: https://team-task-manager-red-three.vercel.app/
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- CSS / Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+### Authentication
+- JWT Authentication
+- bcryptjs
+
+---
+
+## 🌐 Deployment
+
+### Backend
+🔗 https://teamtaskmanager-production-fb3a.up.railway.app/
+
+### Live Demo
+🔗 https://team-task-manager-red-three.vercel.app/
+
+---
