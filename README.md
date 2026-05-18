@@ -35,14 +35,4 @@ Team Task Manager is a full-stack web application built using the MERN Stack tha
 - JWT Authentication
 - bcryptjs
 
----
 
-## 🌐 Deployment
-
-### Backend
-🔗 https://teamtaskmanager-production-fb3a.up.railway.app/
-
-### Live Demo
-🔗 https://team-task-manager-red-three.vercel.app/
-
----
